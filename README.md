@@ -1,1 +1,1 @@
-# holbertonschool-web_reac
+# holbertonschool-web_react
